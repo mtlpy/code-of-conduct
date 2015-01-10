@@ -1,21 +1,20 @@
-The Python community is made up of members from around the globe with a diverse set of skills, personalities, and experiences. It is through these differences that our community experiences great successes and continued growth. When you're working with members of the community, we encourage you to follow these guidelines which help steer our interactions and strive to keep Python a positive, successful, and growing community.
+La communauté Python est faite de membres en provenance de partout dans le monde, et ayant des compétences, des personnalités et des expériences très variées. C'est à travers ces différences que notre communauté connaît de grand succès et poursuit sa croissance. Lorsque vous travaillez avec d'autres membres de la communauté, nous vous encourageons à suivre ces lignes directrices qui guident nos interactions et qui contribuent à faire de la communauté Python une communauté croissante, couronnée de succès et remplie de positivité.
 
-A member of the Python community is:
+Un membre de la communauté Python se doit d'être:
 
-Open
-====
+Ouvert
+=====
 
-Members of the community are open to collaboration, whether it's on PEPs, patches, problems, or otherwise. We're receptive to constructive comment and criticism, as the experiences and skill sets of other members contribute to the whole of our efforts. We're accepting of all who wish to take part in our activities, fostering an environment where anyone can participate and everyone can make a difference.
+Les membres de la communauté sont ouvert à la collaboration, que ce soit sur des PEP, des rustines, des problèmes et plus encore. Nous sommes ouverts aux critiques et aux commentaires constructifs, car nous reconnaissons que l'expertise et les compétences des autres membres nous enrichissent collectivement. Nous acceptons toute personne qui souhaite prendre part à nos activités, et ce faisant, nous créons un environnement ouvert à la collaboration où chaque personne peut faire la différence.
 
-Considerate
-===========
+Attentionné
+========
 
-Members of the community are considerate of their peers -- other Python users. We're thoughtful when addressing the efforts of others, keeping in mind that often times the labor was completed simply for the good of the community. We're attentive in our communications, whether in person or online, and we're tactful when approaching differing views.
+Les membres de la communauté ont de la considérations pour leurs -- les autres utilisateurs de Python. Nous avons de la considération pour les efforts des autres, on garde à l'esprit que souvent les efforts fournis le sont pour le bien général de la communauté. Nous sommes attentifs à nos communications, que ce soit en personne ou en ligne et nous utilisons du tact lorsque nous approchons différents points de vue.
 
-Respectful
+Respectueux
 ==========
 
-Members of the community are respectful. We're respectful of others, their positions, their skills, their commitments, and their efforts. We're respectful of the volunteer efforts that permeate the Python community. We're respectful of the processes set forth in the community, and we work within them. When we disagree, we are courteous in raising our issues.
+Les membres de la communauté sont respectueux. Nous respectons les autres, leurs points de vus, leurs compétences, leur engagement et leurs efforts. Nous respectons le travail bénévole qui est à la base de la communauté. Nous respectons les processus régissant la communauté, et nous travaillons dans le cadre de ces processus. Quand nous sommes en désaccord, nous sommes courtois dans la façon de le montrer.
 
-
-Overall, we're good to each other. We contribute to this community not because we have to, but because we want to. If we remember that, these guidelines will come naturally.
+Dans l'ensemble, nous sommes bons les uns envers les autres. Nous contribuons à la communauté non seulement parce que nous ressentons le devoir de le faire, mais parce que nous sommes animés d'une volonté forte de le faire. Si nous nous rappelons de cette volonté qui nous anime, les recommandations énoncés par ce document viendrons à nous naturellement.
