@@ -16,7 +16,7 @@ We hope, as a team we can iterate and improve continually.
 
 No changes are final until approved by the President of the Montréal-Python user group and versions in place for a given year will be clearly marked, the website contents on montrealpython.org will clearly state the revision of the documents posted.
 
-You can have access to our current code of conduct by clicking [here](https://github.com/mtlpy/code-of-conduct/blob/master/CodeOfConduct.rst).
+Follow this link to read the full text: [Montréal-Python code of conduct](https://github.com/mtlpy/code-of-conduct/blob/master/CodeOfConduct.rst)
 
 -- fr --
 
@@ -40,4 +40,4 @@ On espère, en tant qu'en tant qu'équipe on itérera et on s'améliora continue
 Aucun changement n'est final tant qu'il n'est pas approuvé par le/la président/e du groupe Montréal-Python et la version en cours pour
 une année donnée sera clairement indiquée. Le site web du groupe à l'url montréalpython.org indiquera clairement l'état de la révision et le code de conduite courant.
 
-Vous pouvez consulter le code de conduite courant en cliquant [ici](https://github.com/mtlpy/code-of-conduct/blob/master/CodeDeConduite.rst).
+Suivez le lien pour lire le texte complet: [code de conduite de Montréal-Python](https://github.com/mtlpy/code-of-conduct/blob/master/CodeDeConduite.rst).
