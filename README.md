@@ -18,6 +18,16 @@ No changes are final until approved by the President of the Montréal-Python use
 
 Follow this link to read the full text: [Montréal-Python code of conduct](https://github.com/mtlpy/code-of-conduct/blob/master/CodeOfConduct.rst)
 
+Contact
+==========
+If you need assistance or wish to report a violation of the code of conduct, please contact Montréal Python:
+
+- By email: mtlpyteam@googlegroups.com
+- During physical events, please speak to a member of the Montréal Python team.
+
+We take these matters very seriously and are committed to creating an inclusive and respectful environment for all participants.
+
+
 -- fr --
 
 Code de conduite de Montréal-Python
@@ -41,3 +51,13 @@ Aucun changement n'est final tant qu'il n'est pas approuvé par le/la président
 une année donnée sera clairement indiquée. Le site web du groupe à l'url montréalpython.org indiquera clairement l'état de la révision et le code de conduite courant.
 
 Suivez le lien pour lire le texte complet: [code de conduite de Montréal-Python](https://github.com/mtlpy/code-of-conduct/blob/master/CodeDeConduite.rst).
+
+
+Contact
+------------
+Si vous avez besoin d'aide ou souhaitez signaler un manquement au code de conduite, veuillez contacter Montréal Python :
+
+  - Par e-mail : mtlpyteam@googlegroups.com
+  - Lors des événements physiques, veuillez parler à une personne de l'équipe de Montréal Python.
+
+Nous prenons ces questions très au sérieux et nous nous engageons à créer un environnement inclusif et respectueux pour tous les participants.
