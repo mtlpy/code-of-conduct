@@ -18,3 +18,13 @@ Respectueux
 Les membres de la communauté sont respectueux. Nous respectons les autres, leurs points de vus, leurs compétences, leur engagement et leurs efforts. Nous respectons le travail bénévole qui est à la base de la communauté. Nous respectons les processus régissant la communauté, et nous travaillons dans le cadre de ces processus. Quand nous sommes en désaccord, nous sommes courtois dans la façon de le montrer.
 
 Dans l'ensemble, nous sommes bons les uns envers les autres. Nous contribuons à la communauté non seulement parce que nous ressentons le devoir de le faire, mais parce que nous sommes animés d'une volonté forte de le faire. Si nous nous rappelons de cette volonté qui nous anime, les recommandations énoncés par ce document viendrons à nous naturellement.
+
+
+Contact
+==========
+Si vous avez besoin d'aide ou souhaitez signaler un manquement au code de conduite, veuillez contacter Montréal Python :
+
+   - Par e-mail : mtlpyteam@googlegroups.com
+   - Lors des événements physiques, veuillez parler à une personne de l'équipe de Montréal Python.
+
+Nous prenons ces questions très au sérieux et nous nous engageons à créer un environnement inclusif et respectueux pour tous les partic

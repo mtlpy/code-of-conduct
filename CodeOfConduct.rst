@@ -19,3 +19,13 @@ Members of the community are respectful. We're respectful of others, their posit
 
 
 Overall, we're good to each other. We contribute to this community not because we have to, but because we want to. If we remember that, these guidelines will come naturally.
+
+
+Contact
+==========
+If you need assistance or wish to report a violation of the code of conduct, please contact Montréal Python:
+
+   - By email: mtlpyteam@googlegroups.com
+   - During physical events, please speak to a member of the Montréal Python team.
+
+We take these matters very seriously and are committed to creating an inclusive and respectful environment for all participants.
